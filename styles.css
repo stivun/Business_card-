@@ -1,0 +1,28 @@
+body {
+    margin: 20px;
+    font-family: serif;
+}
+
+.card {
+    display: flex;
+    border-bottom: 4px solid rgb(98, 98, 172);
+    border-left: 4px solid rgb(98, 98, 172);
+    padding: 20px;
+    width: 400px;
+    margin: 0 auto;
+    justify-content: space-around;
+    text-align: center;
+    background: rgb(200, 133, 192);
+
+}
+
+.violet-border {
+    text-align: #503ab0;
+}
+
+.avatar {
+    width: 150px;
+    border-bottom: 4px solid rgb(98, 98, 172);
+    border-left: 4px solid rgb(98, 98, 172);
+
+}
